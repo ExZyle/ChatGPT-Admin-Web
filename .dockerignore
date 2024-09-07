@@ -1,2 +1,10 @@
 **/node_modules
 **/.env
+**/.pnpm-store
+Dockerfile
+docker-compose.yml
+.dockerignore
+.devcontainer/
+.git
+.github
+.gitignore
